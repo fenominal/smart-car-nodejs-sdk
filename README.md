@@ -1,5 +1,7 @@
 # smart-car-nodejs-sdk
 
+You need account from smart car from here :- https://dashboard.smartcar.com/login
+
 Make sure you have cloned this repo -
 ```bash
 $ git clone https://github.com/fenominal/smart-car-nodejs-sdk.git
