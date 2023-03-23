@@ -1,0 +1,27 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Ayush Patel",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^5.3.4",
+    "hbs": "^4.2.0",
+    "mongoose": "^7.0.2",
+    "smartcar": "^9.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": ">=14.4.0",
+    "npm": ">=8.3.0"
+  }
+}
